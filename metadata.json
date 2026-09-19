@@ -1,0 +1,9 @@
+{
+  "name": "ArtTok",
+  "description": "Application vidéo style TikTok pour les créateurs adolescents et artistes, avec catégories d'art, hub de collaboration et scénarios d'histoires.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
